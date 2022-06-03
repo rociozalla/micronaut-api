@@ -1,4 +1,4 @@
-# Micronaut
+# Micronaut arithmetic API
 
 ## Micronaut 3.5.0 Documentation
 
